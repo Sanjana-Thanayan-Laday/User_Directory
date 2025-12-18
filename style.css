@@ -29,8 +29,8 @@ input {
 }
 
 button {
-   width:38px;
-  padding: 2px 6px;
+  
+  padding: 3px,6px;
   border: none;
   border-radius: 6px;
   background-color: #2c68a9;
@@ -50,7 +50,7 @@ button:hover {
   color: red;
 }
 
-/* Cards */
+
 .cards-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -74,7 +74,7 @@ button:hover {
   margin: 0 0 5px;
 }
 
-/* Modal */
+
 .modal {
   display: none;
   position: fixed;
@@ -97,6 +97,7 @@ button:hover {
   cursor: pointer;
 
 }
+
 
 
 
