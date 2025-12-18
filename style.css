@@ -17,13 +17,13 @@ header h1 {
 .controls {
   display: flex;
   justify-content: center;
-  gap: 10px;
+  gap: 9px;
   margin-bottom: 20px;
 }
 
 input {
   padding: 15px;
-  width: 300px;
+  width: 270px;
   border-radius: 6px;
   border: 1px solid #ccc;
 }
@@ -96,6 +96,7 @@ button:hover {
   cursor: pointer;
 
 }
+
 
 
 
