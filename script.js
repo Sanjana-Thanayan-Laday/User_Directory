@@ -61,7 +61,7 @@ sortBtn.addEventListener("click", () => {
 function showDetails(user) {
   modal.style.display = "block";
   userDetails.innerHTML = `
-    <h2>${user.name}</h2>
+    <h2><u>${user.name}</u></h2>
     <p><strong>Email:</strong> ${user.email}</p>
     <p><strong>Phone:</strong> ${user.phone}</p>
     <p><strong>Company:</strong> ${user.company.name}</p>
@@ -72,4 +72,5 @@ function showDetails(user) {
 closeBtn.onclick = () => modal.style.display = "none";
 window.onclick = e => {
   if (e.target === modal) modal.style.display = "none";
+
 }
