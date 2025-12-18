@@ -13,9 +13,3 @@ This is a simple **User Directory** web application built with **HTML, CSS, and 
 - Responsive layout for displaying users.
 - Client-side interaction using JavaScript.
 - Clean UI styled with CSS.
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sanjana-Thanayan-Laday/User_Directory.git
