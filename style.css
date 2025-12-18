@@ -1,6 +1,6 @@
 body {
+  background: linear-gradient(to right, #4f5aaf, #98a3f5);
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  background-color: #f6f7f7;
   margin: 0;
   padding: 30px;
 }
@@ -8,15 +8,18 @@ body {
 header {
   text-align: center;
   margin-bottom: 20px;
+
 }
 
 header h1 {
+  
+  font-family:Raleway;
   margin-bottom: 5px;
 }
 
 .controls {
   display: flex;
-  justify-content: center;
+  justify-content:center;
   gap: 9px;
   margin-bottom: 20px;
 }
@@ -29,7 +32,7 @@ input {
 }
 
 button {
-  
+ 
   padding: 3px,6px;
   border: none;
   border-radius: 6px;
@@ -50,7 +53,6 @@ button:hover {
   color: red;
 }
 
-
 .cards-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -58,7 +60,7 @@ button:hover {
 }
 
 .card {
-  background: white;
+  background: rgb(228, 236, 227);
   padding: 25px;
   border-radius: 10px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.08);
@@ -74,7 +76,6 @@ button:hover {
   margin: 0 0 5px;
 }
 
-
 .modal {
   display: none;
   position: fixed;
@@ -83,7 +84,7 @@ button:hover {
 }
 
 .modal-content {
-  background: white;
+  background:whitesmoke;
   margin: 10% auto;
   padding: 20px;
   width: 90%;
@@ -97,6 +98,9 @@ button:hover {
   cursor: pointer;
 
 }
+
+
+
 
 
 
