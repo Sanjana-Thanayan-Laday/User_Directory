@@ -23,7 +23,7 @@ header h1 {
 
 input {
   padding: 15px;
-  width: 330px;
+  width: 300px;
   border-radius: 6px;
   border: 1px solid #ccc;
 }
@@ -96,3 +96,4 @@ button:hover {
   cursor: pointer;
 
 }
+
