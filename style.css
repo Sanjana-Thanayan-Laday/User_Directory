@@ -23,7 +23,7 @@ header h1 {
 
 input {
   padding: 15px;
-  width: 350px;
+  width: 330px;
   border-radius: 6px;
   border: 1px solid #ccc;
 }
@@ -94,4 +94,5 @@ button:hover {
   float: right;
   font-size: 20px;
   cursor: pointer;
+
 }
