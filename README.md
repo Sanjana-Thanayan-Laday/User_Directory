@@ -13,11 +13,10 @@ Users Directory/
 ## Setup Steps
 1. Clone or Download the Project(Or download the ZIP file and extract it.)
 2. Run the Project:
--Open the project folder
--Double-click index.html
-(or)
--Open index.html using any modern browser (Chrome, Edge, Firefox)
--No additional setup or installation is required.
+   -Open the project folder
+   -Double-click index.html(or)
+   -Open index.html using any modern browser (Chrome, Edge, Firefox)
+   -No additional setup or installation is required.
 
 ## Features
 - Responsive layout for displaying users.
